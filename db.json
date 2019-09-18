@@ -1,31 +1,13 @@
 {
-"posts": [
-{
-"id": 1,
-"title": "Post 1"
-},
-{
-"id": 2,
-"title": "Post 2"
-},
-{
-"id": 3,
-"title": "Post 3"
+	"me": {	"user_name":"Fabio Leal", 
+		"email":"sousaleal.fabio@gmail.com", 
+		"user_type":"external_client", 
+		"language":"pt_BR", "timezone":"-3", 
+		"brands":["Nike", "Adidas"]
+	},
+	"credentials": {	
+		"bm_user":"guest",
+		"api_key":"MfcySfJ4jw8Wj3bSlxExD4UEnpDoiAfVDfhjlRdsdafk1g2cDw"
+	}
 }
-],
-"comments": [
-{
-"id": 1,
-"body": "some comment",
-"postId": 1
-},
-{
-"id": 2,
-"body": "some comment",
-"postId": 1
-}
-],
-"profile": {
-"name": "typicode"
-}
-}
+
