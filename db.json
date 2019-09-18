@@ -1,13 +1,27 @@
 {
-	"me": {	"user_name":"Fabio Leal", 
+	"user1": {	
+		"user_name":"Fabio Leal", 
 		"email":"sousaleal.fabio@gmail.com", 
 		"user_type":"external_client", 
 		"language":"pt_BR", "timezone":"-3", 
 		"brands":["Nike", "Adidas"]
+	},
+	"user2": {	
+		"user_name":"Ramon Fragoso", 
+		"email":"ramon@gmail.com", 
+		"user_type":"external_client", 
+		"language":"en_US", "timezone":"-3", 
+		"brands":["Apple", "coca cola"]
+	},
+	"user3": {	
+		"user_name":"Talita Lobo", 
+		"email":"talita@gmail.com", 
+		"user_type":"external_client", 
+		"language":"pt_BR", "timezone":"-3", 
+		"brands":["xiaomi", "huawei"]
 	},
 	"credentials": {	
 		"bm_user":"guest",
 		"api_key":"MfcySfJ4jw8Wj3bSlxExD4UEnpDoiAfVDfhjlRdsdafk1g2cDw"
 	}
 }
-
